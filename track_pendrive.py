@@ -9,7 +9,7 @@ OWNER_NAME = "John "
 OWNER_EMAIL = "abc@example.com"
 CONTACT_NUMBER = "+1-123-456-7890"
 ACCESS_PASSWORD = "1234"
-SERVER_URL = "http://192.168.31.80:5000/receive-data"  # Replace with owner's server IP
+SERVER_URL = "http://"owners ip":5000/receive-data"  # Replace with owner's server IP
 
 # Function to get geolocation based on IP
 def get_geolocation():
